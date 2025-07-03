@@ -136,11 +136,8 @@ In conclusion, the handwritten equation solver utilizing deep learning technique
 The `CNN model` excelled in accurately recognizing and classifying individual handwritten characters within the equations. Its ability to effectively capture spatial hierarchies and local patterns in the input images contributed to its high accuracy. With its deep layers and convolutional operations, the CNN was capable of learning complex features directly from the pixel values, enabling robust classification of handwritten characters.
 
 
-### ✒️ **Signature**
+### ✒️ **my info**
 
-<p align="center">
-  <img src="https://github.com/sgvkamalakar.png" height="200" width="200"/>
-</p>
 <p align="center">
   Deep
 </p>
