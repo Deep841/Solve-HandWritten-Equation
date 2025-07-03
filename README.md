@@ -143,6 +143,6 @@ The `CNN model` excelled in accurately recognizing and classifying individual ha
 </p>
 
  
-Connect with me on [![LinkedIn](https://img.shields.io/badge/-Kamalakar_Satapathi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-332437315/)
+Connect with me on [![LinkedIn](https://img.shields.io/badge/-Deep-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-332437315/)
 
-Explore my codes [![GitHub](https://img.shields.io/badge/-Sgvkamalakar-181717?style=flat-square&logo=github)]([https://github.com/sgvkamalakar](https://github.com/Deep841))
+Explore my codes [![GitHub](https://img.shields.io/badge/-Deep-181717?style=flat-square&logo=github)]([https://github.com/sgvkamalakar](https://github.com/Deep841))
